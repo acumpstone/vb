@@ -1,0 +1,9 @@
+H:\Documents\Programming11\Visual Basic\calculator\calculator\bin\Debug\calculator.exe
+H:\Documents\Programming11\Visual Basic\calculator\calculator\bin\Debug\calculator.pdb
+H:\Documents\Programming11\Visual Basic\calculator\calculator\bin\Debug\calculator.xml
+H:\Documents\Programming11\Visual Basic\calculator\calculator\obj\x86\Debug\WindowsApplication1.formCalculator.resources
+H:\Documents\Programming11\Visual Basic\calculator\calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\Documents\Programming11\Visual Basic\calculator\calculator\obj\x86\Debug\calculator.vbproj.GenerateResource.Cache
+H:\Documents\Programming11\Visual Basic\calculator\calculator\obj\x86\Debug\calculator.exe
+H:\Documents\Programming11\Visual Basic\calculator\calculator\obj\x86\Debug\calculator.xml
+H:\Documents\Programming11\Visual Basic\calculator\calculator\obj\x86\Debug\calculator.pdb

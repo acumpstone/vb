@@ -1,0 +1,9 @@
+H:\Documents\Programming11\Visual Basic\dice_roll\dice_roll\bin\Debug\dice_roll.exe
+H:\Documents\Programming11\Visual Basic\dice_roll\dice_roll\bin\Debug\dice_roll.pdb
+H:\Documents\Programming11\Visual Basic\dice_roll\dice_roll\bin\Debug\dice_roll.xml
+H:\Documents\Programming11\Visual Basic\dice_roll\dice_roll\obj\x86\Debug\WindowsApplication1.formDiceRoll.resources
+H:\Documents\Programming11\Visual Basic\dice_roll\dice_roll\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\Documents\Programming11\Visual Basic\dice_roll\dice_roll\obj\x86\Debug\dice_roll.vbproj.GenerateResource.Cache
+H:\Documents\Programming11\Visual Basic\dice_roll\dice_roll\obj\x86\Debug\dice_roll.exe
+H:\Documents\Programming11\Visual Basic\dice_roll\dice_roll\obj\x86\Debug\dice_roll.xml
+H:\Documents\Programming11\Visual Basic\dice_roll\dice_roll\obj\x86\Debug\dice_roll.pdb

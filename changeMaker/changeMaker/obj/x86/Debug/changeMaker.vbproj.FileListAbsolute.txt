@@ -1,0 +1,9 @@
+H:\Documents\Programming11\Visual Basic\changeMaker\changeMaker\bin\Debug\changeMaker.exe
+H:\Documents\Programming11\Visual Basic\changeMaker\changeMaker\bin\Debug\changeMaker.pdb
+H:\Documents\Programming11\Visual Basic\changeMaker\changeMaker\bin\Debug\changeMaker.xml
+H:\Documents\Programming11\Visual Basic\changeMaker\changeMaker\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\Documents\Programming11\Visual Basic\changeMaker\changeMaker\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\Documents\Programming11\Visual Basic\changeMaker\changeMaker\obj\x86\Debug\changeMaker.vbproj.GenerateResource.Cache
+H:\Documents\Programming11\Visual Basic\changeMaker\changeMaker\obj\x86\Debug\changeMaker.exe
+H:\Documents\Programming11\Visual Basic\changeMaker\changeMaker\obj\x86\Debug\changeMaker.xml
+H:\Documents\Programming11\Visual Basic\changeMaker\changeMaker\obj\x86\Debug\changeMaker.pdb
